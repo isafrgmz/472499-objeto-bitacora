@@ -2,9 +2,14 @@
 
 conversación sobre La tercera mesa y los objetos
 
-## titulo mediano
+## Tareas 
 
-### titulo pequeño
+### Apuntes sobre la tercera mesa
 
-texto plano
+párrafos que gustaron, cosas que no entendí, reflexiones
 
+### 10 cualidades mías 
+
+### Revisar el texto ´´La estética como cosmología´´
+
+párrafos que gustaron, cosas que no entendí, reflexiones
