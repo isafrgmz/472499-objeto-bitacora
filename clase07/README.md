@@ -20,10 +20,16 @@ Piedra o pan, no sé, depende de lo que quieras. A veces necesito una piedra por
 
 Si junto ambas, se obtiene un resultado que no satisface ninguna de las necesidades.
 
-Un pan de piedras resulta incómomdo, el pan no es apetitoso y se pierde el goce de tomar una piedra.
+Un pan de piedras resulta incómomdo, el pan no es apetitoso y se pierde el goce de tomar una piedra. 
+
+Otra manera de juntarlas es comerme un pan mientras sostengo una piedra.
+
+De esta forma me sacio de ambas necesidades.
+
+Condicionada a la carta me enfrento a una nueva decisión que juntar, comerse un pan de piedras o comer un pan sosteniendo una piedra. 
 
 ## Tabla de info
 
-
+Cuantas decisiones puedo combinar infinamente iniciando desde pan o piedra. 
 
 
