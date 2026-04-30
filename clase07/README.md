@@ -26,7 +26,8 @@ Otra manera de juntarlas es comerme un pan mientras sostengo una piedra.
 
 De esta forma me sacio de ambas necesidades.
 
-Condicionada a la carta me enfrento a una nueva decisión que juntar, comerse un pan de piedras o comer un pan sosteniendo una piedra. 
+Condicionada a la carta me enfrento a una nueva decisión que juntar, comerse un pan de piedras o comer un pan sosteniendo una piedra, lo cual se vuelve una condena ya que no puedo decidir por la opción cómoda o la incómoda, tengo que realizar ambas. 
+
 
 ## Tabla de info
 
