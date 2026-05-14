@@ -8,7 +8,7 @@ Impresora de boletas Rs232 Thermal Printer ![impresora boleta](./impresoraboleta
 
 ### Procedimiento
 
-impresora entrega mediante la interacción directa con esta una “boleta” con un catálogo de hierbas medicinales mencionadas en la canción “la jardinera” de Violeta Parra mientras se reproduce dicha canción.
+impresora entrega mediante la interacción directa con esta una “boleta” con un catálogo de hierbas medicinales mencionadas en la canción “la jardinera” de Violeta Parra.
 
 ### Base de datos
 
