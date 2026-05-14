@@ -20,3 +20,7 @@ impresora entrega mediante la interacción una “boleta” con un catálogo de 
 ## Base de datos
 
 Relatos de vida de nuestras abuelas. Investigación de hierbas, usos y beneficios basada en prácticas de vida de Violeta.
+
+## Retribución al museo
+
+Un fanzine que contenga un catálogo de todas las boletas con la información recopilada.
