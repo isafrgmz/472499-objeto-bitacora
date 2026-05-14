@@ -4,7 +4,7 @@ La característica más importante del fanzine radica en lo político, ya que po
 
 ### Definir objeto
 
-Impresora de boletas Rs232 Thermal Printer ! [impresoraboleta](./assets/impresoraboleta.jpg)
+Impresora de boletas Rs232 Thermal Printer ![impresoraboleta](./assets/impresoraboleta.jpg)
 
 ### Procedimiento
 
