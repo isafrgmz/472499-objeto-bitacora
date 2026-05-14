@@ -1,6 +1,10 @@
 # Clase08
 
-Nuestra definición se basa en la característica más importante del fanzine, esta radica en lo político, ya que por su fácil elaboración se democratiza la producción de esta herramienta de masificación de información. 
+Jonathan e Isabela
+
+### Definición fanzine
+
+Nuestra definición se basa en la característica más importante del fanzine en nuestra opinión. Esta radica en lo político, ya que por su fácil elaboración se democratiza la producción de esta herramienta de masificación de información. 
 
 ### Definir objeto
 
