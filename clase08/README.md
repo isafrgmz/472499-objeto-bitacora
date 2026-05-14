@@ -12,7 +12,7 @@ Las plantas desde la visión de Violeta Parra
 
 ## Procedimiento
 
-impresora entrega mediante la interacción directa con esta una “boleta” con un catálogo de una investigación de hierbas medicinales.
+impresora entrega mediante la interacción una “boleta” con un catálogo de una investigación de hierbas medicinales.
 
 ### Impresora de boletas Rs232 Thermal Printer
 ![impresora boleta](./impresoraboleta.jpg)
