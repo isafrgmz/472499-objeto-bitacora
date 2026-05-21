@@ -1,5 +1,7 @@
 # Anteproyecto  
 
+## (Isabela Gómez y Jonathan Soto)
+
 Las plantas han sido un acompañante constante en la historia del ser humano como alimento, medicina, ornato
 y veneno. En efecto, desde muy antiguo es conocido que una misma especie vegetal puede tener cualquiera de
 estas características, dependiendo su actividad benéfica o perjudicial de la forma de usarla, así como de la dosis
