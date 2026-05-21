@@ -9,14 +9,6 @@ mayor conocimiento sobre este tipo de cualidades y con ello mejorar la seguridad
 Ministerio de Salud de Chile. (2010). MHT: Medicamentos herbarios tradicionales: 103 especies vegetales. Gobierno de Chile.
 
 
-## Propuesta inicial x HACER
-
-## Comentario x HACER
-
-## objeto inicial x HACER
-
-### 
-
 ### base de datos ¿qué ingresa a la base de datos? ¿qué aspectos de este objeto me servirán para mi investigación? x HACER
 
 Propiedades de las plantas
@@ -28,7 +20,5 @@ Propiedades de las plantas
 -Precauciones
 
 -Otros antecendentes
-
-### Materialidad de la instalación x HACER
 
 ## Boceto montaje X HACER
