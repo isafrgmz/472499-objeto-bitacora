@@ -40,7 +40,7 @@ La base de datos digital programada asocia cada posición de la perilla a una ma
 
 ### Materialidad y Montaje 
 
-- Estructura Exterior: En un plinto o gabinete de mesa se ubicará la caja que contendrá la impresora con su botón de impresión y junto a esta estará el panel con la perilla selectora.
+- Estructura Exterior: En un plinto o gabinete de mesa se ubicará la caja que contendrá la impresora con su botón de impresión y junto a esta estará el panel con la perilla selectora (encoder rotatorio).
 
 - Componentes Tecnológicos: En el interior del mueble se alojará el Arduino, la perilla y una Impresora Térmica TTL de 58mm. (Tenemos esta opción de impresora: https://a.aliexpress.com/_mrjty79 )  
 
