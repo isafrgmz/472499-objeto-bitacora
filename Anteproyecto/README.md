@@ -55,3 +55,5 @@ Un fanzine compilatorio en formato de catálogo. Este libro reunirá todas las b
 (También se consideró tener 2 impresoras para entregarle al museo una de estas y así puedan quedarse con el objeto)
 
 ## Boceto montaje 
+
+![boceto](./boceto.png)
