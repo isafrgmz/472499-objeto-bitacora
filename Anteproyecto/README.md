@@ -1,4 +1,4 @@
-# Anteproyecto  xxx
+# Anteproyecto  x HACER
 
 Las plantas han sido un acompañante constante en la historia del ser humano como alimento, medicina, ornato
 y veneno. En efecto, desde muy antiguo es conocido que una misma especie vegetal puede tener cualquiera de
@@ -9,15 +9,15 @@ mayor conocimiento sobre este tipo de cualidades y con ello mejorar la seguridad
 Ministerio de Salud de Chile. (2010). MHT: Medicamentos herbarios tradicionales: 103 especies vegetales. Gobierno de Chile.
 
 
-## Propuesta inicial xxx
+## Propuesta inicial x HACER
 
-## Comentario xxx
+## Comentario x HACER
 
-## objeto inicial xxx
+## objeto inicial x HACER
 
 ### 
 
-### base de datos ¿qué ingresa a la base de datos? ¿qué aspectos de este objeto me servirán para mi investigación? xxx
+### base de datos ¿qué ingresa a la base de datos? ¿qué aspectos de este objeto me servirán para mi investigación? x HACER
 
 Propiedades de las plantas
 
@@ -29,6 +29,6 @@ Propiedades de las plantas
 
 -Otros antecendentes
 
-### Materialidad de la instalación xxx
+### Materialidad de la instalación x HACER
 
-## Boceto montaje
+## Boceto montaje X HACER
