@@ -56,4 +56,4 @@ Un fanzine compilatorio en formato de catálogo. Este libro reunirá todas las b
 
 ## Boceto montaje 
 
-![boceto](./boceto.png)
+![boceto](./boceto.jpg)
