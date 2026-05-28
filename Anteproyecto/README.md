@@ -46,7 +46,7 @@ La base de datos digital programada asocia cada posición de la perilla a una ma
 
 - Componentes Tecnológicos: Colgado al muro se alojará el Arduino, la perilla y una Impresora Térmica TTL de 58mm. (Tenemos esta opción de impresora: https://a.aliexpress.com/_mrjty79 )  
 
-- Requerimientos: La instalación solo requiere de una superficie de apoyo (mesa o mesón) y acceso a un enchufe común de 220V para alimentar el circuito interno.
+- Requerimientos: La instalación solo requiere de una superficie de apoyo (muro) y acceso a un enchufe común de 220V para alimentar el circuito interno.
   
 ### Retribución al museo
 
