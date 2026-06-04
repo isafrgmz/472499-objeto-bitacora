@@ -57,3 +57,7 @@ Un fanzine compilatorio en formato de catálogo. Este libro reunirá todas las b
 ## Boceto montaje 
 
 ![boceto](./boceto.jpg)
+
+## Link presentación MVP
+
+https://canva.link/tmed9j6sdf95q9d 
