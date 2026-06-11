@@ -14,8 +14,8 @@ La lista de plantas que usaremos son las plantas disponibles en la huerta del Mu
 - Berros
 - Betarraga
 - Brócoli
-- Cartucho enano o Perrito
 - Capuchina
+- Cartucho enano o Perrito
 - Cebollín
 - Cilantro
 - Espinaca
@@ -37,6 +37,6 @@ La lista de plantas que usaremos son las plantas disponibles en la huerta del Mu
 - Repollo
 - Romero
 - Ruda
-- Tacetes
+- Tagetes
 - Topinambur
 - Zinnias
