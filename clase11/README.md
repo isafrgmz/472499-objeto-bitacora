@@ -41,7 +41,7 @@ La lista de plantas que usaremos son las plantas disponibles en la huerta del Mu
 - Topinambur
 - Zinnias
 
-``
+```
 #include <SoftwareSerial.h>
 
 // Pin 10 = RX Arduino (recibe desde TX impresora)
@@ -116,4 +116,4 @@ void imprimirPrueba() {
   enviarComando(cortar, 4);
 }
 
-``
+```
