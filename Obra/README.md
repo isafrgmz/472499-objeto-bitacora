@@ -13,3 +13,43 @@ Isabela Gómez Güenul y Jonathan Soto Norambuena
 ### Imagen de referencia del trabajo
 
 Dimensiones: 30x40x15cm (aprox, aún por definir)
+
+### Listado de plantas Huerta Violeta Parra
+
+- Acelga
+- Ajo
+- Alcachofa
+- Amaranto
+- Apio
+- Artemisa
+- Arvejas
+- Berenjena
+- Berros
+- Betarraga
+- Brócoli
+- Capuchina
+- Cartucho enano o Perrito
+- Cebollín
+- Cilantro
+- Espinaca
+- Flor de Ajo
+- Girasol
+- Grosella
+- Habas
+- Kale
+- Lechuga
+- Llantén
+- Malvas 
+- Menta
+- Mizuna Morada
+- Mizuna Verde
+- Oregano
+- Papas
+- Puerro
+- Rabanito
+- Repollo
+- Romero
+- Ruda
+- Tagetes
+- Topinambur
+- Zinnias
