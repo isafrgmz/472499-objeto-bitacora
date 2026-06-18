@@ -58,36 +58,43 @@ Dimensiones: 30x40x15cm (aprox, aún por definir)
 
 ================================
      COMPROBANTE DE CONSUMO     
-    SABERES POPULARES EXENTO    
+    SABERES BOTÁNICOS EXENTO    
 ================================
 FECHA: 18/06/2026  VALOR: $0 CLP
 --------------------------------
 
 [NOMBRE DE LA PLANTA]
+
 ([Nombre Científico])
 
 [PROPIEDADES / LO BUENO]:
+
 - [Texto corto de los beneficios
   médicos o farmatológicos].
 
 [ADVERTENCIA / LO MALO]:
+
 - [Texto corto de contraindica-
   ciones o precauciones].
 
 --------------------------------
 [SABIDURÍA TRANSMITIDA]:
+
 "[Relato en primera persona de 
 la abuela sobre el uso cotidiano
 de la planta en el campo]"
+
 - Abuela [Nombre] ([Edad] años).
 
 "[Datos entregados por Rosa, huertera
 del Museo Violeta Parra]"
+
 - Rosa Diaz  ([Edad] años).
 --------------------------------
 [ECOS DE VIOLETA]:
+
 "[Cita de canción, verso o re-
-sonancia poética folk vinculada
+sonancia poética vinculada
 a la planta o a la tierra]"
 --------------------------------
 ================================
