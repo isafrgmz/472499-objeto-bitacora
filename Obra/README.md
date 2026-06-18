@@ -57,10 +57,14 @@ Dimensiones: 30x40x15cm (aprox, aún por definir)
 ### Referencia de diseño de la boleta
 
 ================================
+
      COMPROBANTE DE CONSUMO     
     SABERES BOTÁNICOS EXENTO    
+    
 ================================
+
 FECHA: 18/06/2026  VALOR: $0 CLP
+
 --------------------------------
 
 [NOMBRE DE LA PLANTA]
@@ -93,9 +97,10 @@ del Museo Violeta Parra]"
 --------------------------------
 [ECOS DE VIOLETA]:
 
-"[Cita de canción, verso o re-
-sonancia poética vinculada
+"[Cita de canción, verso o
+resonancia poética vinculada
 a la planta o a la tierra]"
+
 --------------------------------
 ================================
 
