@@ -99,3 +99,43 @@ Dimensiones: 30x40x15cm (aprox, aún por definir)
 
 ================================
 
+
+
+## CÓDIGO EXITOSO
+
+```
+import serial
+import time
+
+# Configuración del adaptador USB
+PUERTO = '/dev/ttyUSB0' 
+BAUDIOS = 9600
+
+try:
+    # 1. Abrimos la conexión con la impresora
+    print("Conectando con la impresora...")
+    impresora = serial.Serial(PUERTO, BAUDIOS, timeout=1)
+    time.sleep(1) # Pequeña pausa para estabilizar
+    
+    # 2. Mandamos el texto usando .encode('cp437') para soportar español
+    impresora.write("================================\n".encode('cp437'))
+    impresora.write("   MUSEO VIOLETA PARRA - TEST   \n".encode('cp437'))
+    impresora.write("================================\n".encode('cp437'))
+    impresora.write("\n".encode('cp437'))
+    impresora.write("¡Hola! Si estas leyendo esto,\n".encode('cp437'))
+    impresora.write("la Raspberry Pi y la impresora\n".encode('cp437'))
+    impresora.write("ya son mejores amigas.\n".encode('cp437'))
+    impresora.write("\n".encode('cp437'))
+    impresora.write("Hardware superado!\n".encode('cp437'))
+    
+    # 3. Mandamos unos saltos de línea extra para que el papel salga
+    impresora.write("\n\n\n\n\n".encode('cp437'))
+    
+    # 4. Cerramos la conexión
+    impresora.close()
+    print("¡Texto enviado con éxito!")
+
+except Exception as e:
+    print(f"Error de conexión: {e}")
+```
+
